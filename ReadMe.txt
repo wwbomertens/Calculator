@@ -1,0 +1,1 @@
+In the src file you can see the java files with the source code. Only the main and view folder contain files.
